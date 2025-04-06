@@ -1,13 +1,13 @@
-package com.chaos.fullstacktradingApp;
+package com.chaos.fullstacktradingapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FullstacktradingAppApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FullstacktradingAppApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
